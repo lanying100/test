@@ -1,2 +1,7 @@
 create a new file named "a.txt"
-update by zhangsan
+# <<<<<<< HEAD 
+update by zhangsan	我懂，这是张三修改的版本
+# =======
+update this file on branch lanying  这是蓝鹰修改的部分
+# >>>>>>> lanying
+两个都要，我处理完毕了。注释部分前面加了#
